@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-obsidian: #0B0D0F;
+  --color-graphite: #141719;
+  --color-ivory: #F3EFE6;
+  --color-stone: #A8AAA3;
+  --color-coral: #FF6B57;
+  --color-lime: #C7F36B;
+  --color-border-soft: #292D2F;
+  --font-sans: "Inter", system-ui, sans-serif;
+}
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+  body {
+    background-color: var(--color-obsidian);
+    color: var(--color-ivory);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+}
