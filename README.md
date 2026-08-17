@@ -2,7 +2,7 @@
 
 A modern, responsive developer portfolio built with **React**, **Vite**, **Tailwind CSS v4**, and **Framer Motion**. Features project showcases, an interactive experience timeline, technical stack overview, and a live contact form powered by **Supabase**.
 
-🔗 **Live Site**: [praveenkumar-portfolio.vercel.app](https://praveenkumar-portfolio.vercel.app) <!-- Update with your actual deployed URL -->
+🔗 **Live Site**: [pk-dev-portfolio.vercel.app](https://pk-dev-portfolio.vercel.app/)
 
 ---
 
